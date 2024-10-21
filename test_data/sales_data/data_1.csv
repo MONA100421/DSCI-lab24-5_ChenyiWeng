@@ -1,0 +1,11 @@
+ProductID,ProductCategory,SalesRegion,SaleAmount
+P001,Electronics,North,200.50
+P002,Clothing,South,150.72
+P003,Home,East,300.00
+P004,Electronics,West,200.50
+P005,Clothing,North,500.00
+P006,Home,West,300.00
+P007,Electronics,North,400.25
+P008,Home,North,500.00
+P009,Clothing,East,220.06
+P010,Electronics,South,200.50

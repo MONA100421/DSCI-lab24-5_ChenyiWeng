@@ -1,0 +1,10 @@
+TransactionType,Amount,TransactionDescription
+Deposit,10000.00,salary
+Withdrawal,297.65,phone bill
+Withdrawal,700.00,rent
+Deposit,654.67,gift
+Withdrawal,254.78,phone bill
+Deposit,500.00,bonus
+Withdrawal,700.00,rent
+Withdrawal,240.06,groceries
+Deposit,500.07,rent

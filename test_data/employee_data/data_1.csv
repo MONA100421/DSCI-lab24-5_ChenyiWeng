@@ -1,0 +1,6 @@
+Gender,Department,JobLevel,YearsExperience,TechnicalSkillScore,CommunicationSkillScore,ProblemSolvingScore
+Male,Department A,Entry Level,1,78,85,92
+Female,Department B,Mid Level,5,88,91,89
+Male,Department A,Senior Level,15,90,87,93
+Female,Department C,Entry Level,2,75,82,93
+
